@@ -37,9 +37,3 @@ A swatch filled with that color
 📊 Dataset (colors.csv)
 
 The CSV ships with 865 common color names and their R,G,B triples. You can expand or replace this palette—just keep the column headers: color_name,R,G,B.
-
-📜 License
-
-This project is released under the MIT License. See LICENSE for details.
-
-This version omits all repository-specific URLs, so you can fill them in later or keep it generic.
